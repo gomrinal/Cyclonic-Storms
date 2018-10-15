@@ -1,4 +1,5 @@
 # Cyclonic-Storms
+It is Data Analysis and Exploration project!
 This includes dataset from the website data.gov.in on the number of cyclonic storms formed over North Indian Ocean.
 I did data exploration using seaborn - a visualization tool
 Some remarkable results deciphered :
